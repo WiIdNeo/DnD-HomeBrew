@@ -42,6 +42,8 @@ For this i will adapt the lore of the forgotten realms and toril. It will featur
 
 I will try to keep as many things from canon and only adapt as far as needed for my personal perpos and realism.
 
+> In general I will base a lot of lands and societies on real once, as they are logical and they developed naturally.
+
 > If not stated different the source is forgottenrealms.fandom.com or official books
 
 > ## LEGACY DIRs
