@@ -1,3 +1,5 @@
+![Map](./Map.png)
+
 |Num|Effect|
 |-|-|
 |1|This is by far the biggest mountain in whole world, so you find mount celestia here. Not exactly this point, may a bit south so you can find more cities around.

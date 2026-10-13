@@ -1,3 +1,5 @@
+![Map](./Map.png)
+
 |Number|Effekt|
 |-|-|
 |1|Is a zone of constant drifting in and away and therefore features a lot of earthquakes and because of low landmass many tsunis. This results in salty lands and a lot of shifting of ground. There is a lot of salt generation at the coast.
