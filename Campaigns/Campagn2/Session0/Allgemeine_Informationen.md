@@ -9,7 +9,7 @@ Ihr sollt also in die unwirtliche Wildnis reisen, auf der suche nach den Riesen 
 
 # Stadt
 
-Die Geschichte startet in der Stadt `Gyldenmund` (Arbeitstitel), einer Stadt am Meer, in der der König, wegen des etwas gemäßigterem Klima, den Winter verbringt. 
+Die Geschichte startet in der Stadt [Haldenburg](../../../Homebrew/World%20Building/Map/Version%202/Version%202.2/Kontinent%20A/Windmark/Places/Haldenburg.md), einer Stadt am Meer, in der der König, wegen des etwas gemäßigterem Klima, den Winter verbringt. 
 Die Stadt liegt zusätzlich an einem Fluss, der bis zu einem Reich der Zwergen reicht, die mit dem Königreich handeln. Dieser Teilt auch die Stadt mit der Vorstadt.
 
 ## Die Stadt

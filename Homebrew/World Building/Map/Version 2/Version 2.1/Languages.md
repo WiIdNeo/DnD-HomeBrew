@@ -8,6 +8,8 @@ To stick to german, you find it on Continent A. In north you find scandinavian, 
 
 As I am not really confident about languages there are some categories like meso american. This of course is only a pointer to direction of language you could use there.
 
+> Following Tables are created by AI.
+
 # Tables
 
 **Notes on use**
